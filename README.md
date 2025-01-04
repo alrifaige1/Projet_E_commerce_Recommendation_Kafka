@@ -3,17 +3,6 @@
 ## Bienvenue dans le projet E-commerce Recommendation Kafka Streaming Application ! 
 Ce projet implémente un moteur de recommandation en temps réel pour une plateforme e-commerce, basé sur Apache Kafka et PySpark pour simuler et analyser les consultations de produits dans un environnement e-commerce. 📊
 
-🎯 Objectif : Fournir des recommandations de produits personnalisées en temps réel, basées sur les comportements des utilisateurs (consultations et achats).
-
-### Technologies clés 💻
-- 🚛 ****Kafka**** : Gestion des flux de données en temps réel.
-- ⚡ ****PySpark**** : Traitement des données en temps réel.
-- 📈 ****Matplotlib**** : Visualisation dynamique des données.
-
-**_Fonctionnement du projet_** 🔧
-- Producteur (producer.py) : Envoie des messages Kafka simulant les consultations de produits (avec client_id et produit_consulter_id).
-- Consommateur (consumer.py) : Consomme les messages Kafka et génère des graphiques dynamiques des consultations et des recommandations de produits.
-
 ### Installation 🚀
 
 #### 1 . Clonez le projet :
@@ -31,6 +20,19 @@ Lancez le consommateur :
 python consumer.py
 ```
 
+
+🎯 Objectif : Fournir des recommandations de produits personnalisées en temps réel, basées sur les comportements des utilisateurs (consultations et achats).
+
+### Technologies clés 💻
+- 🚛 ****Kafka**** : Gestion des flux de données en temps réel.
+- ⚡ ****PySpark**** : Traitement des données en temps réel.
+- 📈 ****Matplotlib**** : Visualisation dynamique des données.
+
+**_Fonctionnement du projet_** 🔧
+- Producteur (producer.py) : Envoie des messages Kafka simulant les consultations de produits (avec client_id et produit_consulter_id).
+- Consommateur (consumer.py) : Consomme les messages Kafka et génère des graphiques dynamiques des consultations et des recommandations de produits.
+
+
 #### 3. Les graphiques afficheront :
 
 📊 Consultations : Suivi des produits les plus consultés.
@@ -45,9 +47,9 @@ python consumer.py
 Les contributions sont les bienvenues ! 
 
 🎉 Pour participer :
-- Créer ce dépôt.
-- Créez une nouvelle branche.
-- Soumettez une pull request avec vos améliorations.
+○ Créer ce dépôt.  
+○ Créez une nouvelle branche.  
+○ Soumettez une pull request avec vos améliorations.
 
 
 Merci de votre intérêt et à bientôt !!!
