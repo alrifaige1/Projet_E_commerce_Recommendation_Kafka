@@ -11,8 +11,8 @@ Ce projet implémente un moteur de recommandation en temps réel pour une platef
 - 📈 ****Matplotlib**** : Visualisation dynamique des données.
 
 **_Fonctionnement du projet_** 🔧
-Producteur (producer.py) : Envoie des messages Kafka simulant les consultations de produits (avec client_id et produit_consulter_id).
-Consommateur (consumer.py) : Consomme les messages Kafka et génère des graphiques dynamiques des consultations et des recommandations de produits.
+- Producteur (producer.py) : Envoie des messages Kafka simulant les consultations de produits (avec client_id et produit_consulter_id).
+- Consommateur (consumer.py) : Consomme les messages Kafka et génère des graphiques dynamiques des consultations et des recommandations de produits.
 
 ### Installation 🚀
 
@@ -37,11 +37,11 @@ python consumer.py
 🎯 Recommandations : Suggestions de produits similaires en temps réel.
 
 # Pourquoi ce projet ? 🤔
-Recommandations en temps réel : Personnalisez l'expérience utilisateur.
-Analyse dynamique : Visualisation interactive des données de consommation.
-Scalable et moderne : Utilisation des technologies Kafka et PySpark pour gérer de grands flux de données.
+- Recommandations en temps réel : Personnalisez l'expérience utilisateur.
+- Analyse dynamique : Visualisation interactive des données de consommation.
+- Scalable et moderne : Utilisation des technologies Kafka et PySpark pour gérer de grands flux de données.
 
-## Contribuer 🤝
+## Contribuer 🤝 😊
 Les contributions sont les bienvenues ! 
 
 🎉 Pour participer :
