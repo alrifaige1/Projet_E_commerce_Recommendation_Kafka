@@ -18,7 +18,7 @@ Consommateur (consumer.py) : Consomme les messages Kafka et génère des graphiq
 
 #### 1 . Clonez le projet :
 ```markdown
-git clone https://github.com/Maodo400/projet-kafka.git
+[git clone https://github.com/alrifaige1/Projet_E_commerce_Recommendation_Kafka.git
 ```
 #### 2. Configurez Kafka et exécutez les scripts :
 
