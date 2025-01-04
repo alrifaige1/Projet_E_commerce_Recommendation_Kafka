@@ -6,9 +6,9 @@ Ce projet implémente un moteur de recommandation en temps réel pour une platef
 🎯 Objectif : Fournir des recommandations de produits personnalisées en temps réel, basées sur les comportements des utilisateurs (consultations et achats).
 
 ### Technologies clés 💻
-🚛 ****Kafka**** : Gestion des flux de données en temps réel.
-⚡ ****PySpark**** : Traitement des données en temps réel.
-📈 ****Matplotlib**** : Visualisation dynamique des données.
+- 🚛 ****Kafka**** : Gestion des flux de données en temps réel.
+- ⚡ ****PySpark**** : Traitement des données en temps réel.
+- 📈 ****Matplotlib**** : Visualisation dynamique des données.
 
 **_Fonctionnement du projet_** 🔧
 Producteur (producer.py) : Envoie des messages Kafka simulant les consultations de produits (avec client_id et produit_consulter_id).
@@ -18,7 +18,7 @@ Consommateur (consumer.py) : Consomme les messages Kafka et génère des graphiq
 
 #### 1 . Clonez le projet :
 ```markdown
-[git clone https://github.com/alrifaige1/Projet_E_commerce_Recommendation_Kafka.git
+git clone https://github.com/alrifaige1/Projet_E_commerce_Recommendation_Kafka.git
 ```
 #### 2. Configurez Kafka et exécutez les scripts :
 
