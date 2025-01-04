@@ -21,7 +21,7 @@ python consumer.py
 ```
 
 
-🎯 Objectif : Fournir des recommandations de produits personnalisées en temps réel, basées sur les comportements des utilisateurs (consultations et achats).
+## 🎯 Objectif : Fournir des recommandations de produits personnalisées en temps réel, basées sur les comportements des utilisateurs (consultations et achats).
 
 ### Technologies clés 💻
 - 🚛 ****Kafka**** : Gestion des flux de données en temps réel.
