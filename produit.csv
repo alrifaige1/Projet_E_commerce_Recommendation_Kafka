@@ -1,0 +1,20 @@
+ID,Product_Name,Price,Category,Brand,Stock_Quantity,Description
+1,Laptop Entry,500.00,Electronics,Brand_A,50,Entry-level laptop for basic use
+2,Laptop Mid,750.00,Electronics,Brand_A,40,Mid-range laptop for everyday tasks
+3,Laptop High,1200.00,Electronics,Brand_A,30,High-end laptop for professionals
+4,Smartphone Entry,300.00,Electronics,Brand_B,80,Budget-friendly smartphone
+5,Smartphone Mid,600.00,Electronics,Brand_B,60,Mid-range smartphone with great features
+6,Smartphone High,1000.00,Electronics,Brand_B,40,Premium smartphone with advanced features
+7,Shoes Basic,50.00,Clothing,Brand_C,200,Affordable basic running shoes
+8,Shoes Mid,100.00,Clothing,Brand_C,150,Mid-range running shoes with comfort
+9,Shoes High,200.00,Clothing,Brand_C,100,High-performance running shoes
+10,Yoga Mat Standard,20.00,Sport,Brand_J,200,Standard yoga mat for beginners
+11,Yoga Mat Pro,50.00,Sport,Brand_J,150,Thick yoga mat for advanced users
+12,Yoga Mat Deluxe,100.00,Sport,Brand_J,100,Premium yoga mat with extra cushioning
+13,Dumbbells Basic,30.00,Sport,Brand_K,120,Entry-level dumbbells for home workouts
+14,Dumbbells Mid,70.00,Sport,Brand_K,100,Adjustable dumbbells for intermediate users
+15,Dumbbells Advanced,150.00,Sport,Brand_K,50,High-quality dumbbells for professional workouts
+16,Headphones Entry,80.00,Electronics,Brand_D,150,Budget headphones with decent sound quality
+17,Headphones Mid,150.00,Electronics,Brand_D,100,Mid-range headphones with enhanced features
+18,Headphones High,300.00,Electronics,Brand_D,50,Premium headphones for audiophiles
+19,Running Shoes Deluxe,180.00,Clothing,Brand_C,80,Deluxe running shoes for marathon training
