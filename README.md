@@ -45,9 +45,9 @@ Scalable et moderne : Utilisation des technologies Kafka et PySpark pour gérer 
 Les contributions sont les bienvenues ! 
 
 🎉 Pour participer :
-Créer ce dépôt.
-Créez une nouvelle branche.
-Soumettez une pull request avec vos améliorations.
+- Créer ce dépôt.
+- Créez une nouvelle branche.
+- Soumettez une pull request avec vos améliorations.
 
 
 Merci de votre intérêt et à bientôt !!!
